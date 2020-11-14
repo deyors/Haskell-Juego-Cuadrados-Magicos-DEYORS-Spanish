@@ -736,6 +736,7 @@ main :: IO ()
 main = do
      putStrLn "\nBienvenido a Los Cuadrados Magicos."
      putStrLn "Programado por DEYORS."
+     putStrLn "Agosto del 2020."
      putStrLn "\nSi quieres jugar contra el ordenador, pulsa P"
      putStrLn "Si quieres jugar contra otro jugador, pulsa J"
      putStrLn "Si quieres saber como se juega, pulsa I"
