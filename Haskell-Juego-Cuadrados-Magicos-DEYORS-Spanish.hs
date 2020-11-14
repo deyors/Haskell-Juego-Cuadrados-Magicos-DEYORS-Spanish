@@ -663,7 +663,7 @@ instrucciones :: IO()
 instrucciones = do
      putStrLn "\n\nUn cuadrado magico es una matriz de 3x3 en la cual si sumamos sus filas, columnas y diagonales, se obtiene el mismo resultado."
      putStrLn "Puedes elegir si competir contra el ordenador o contra otro jugador."
-     putStrLn "En una primera ronda, por turnos, tienes que escribir un numero aleatorio en cada una de las esquinas del cuadrado."
+     putStrLn "En una primera ronda, por turnos, tienes que escribir un numero a tu elección en cada una de las esquinas del cuadrado."
      putStrLn "En una segunda ronda, tendras que completar las casillas restantes del cuadrado con los numeros que haya escogido tu oponente, exceptuando la casilla central del cuadrado."
      putStrLn "Por ultimo, escribiras el numero que tu quieras en la casilla central del cuadrado."
      putStrLn "Si al sumar las filas, columnas y diagonales de tu cuadrado obtienes mas resultados iguales que tu contrincante, ¡habras ganado!"
