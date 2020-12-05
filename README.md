@@ -15,6 +15,6 @@ import System.Random -> Integrada de manera natural, no hay que instalar nada. S
 3. Cuando salga el mensaje de que se ha cargado correctamente, ejecutar el comando :main.
 4. Seguir las instrucciones.
 
-Esta es una práctica para la asignatura de Programación Declarativa de la Universidad Complutense de Madrid y ha sido compartida con el afán de ampliar el conocimiento sobre la programación funcional y ver un ejemplo aplicado sobre lo que puede llegar a conseguir. No se pretende de ninguna manera promover la copia literal de los códigos para aprobar la asignatura.
+Esta es una práctica compartida con el afán de ampliar el conocimiento sobre la programación funcional y ver un ejemplo aplicado sobre lo que puede llegar a conseguir. No se pretende de ninguna manera promover la copia literal de los códigos para aprobar ninguna asignatura.
 
 Este contenido es 100% gratuito, pero puedes ayudarme a seguir subiendo material donando lo que creas conveniente a mi Paypal: paypal.me/deyors
